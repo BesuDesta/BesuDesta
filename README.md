@@ -1,6 +1,19 @@
 ## 👋 Hello, I'm Besu Desta! 
 Welcome to my GitHub profile!
 
+## 🌟 About Me:
+📚 CS Student @ VCU | Expected Graduation: May 2027
+
+🧑‍🏫 Teaching Assistant | Helping 55+ students master Object-Oriented Programming
+
+🏠 Resident Assistant | Building community and leadership skills
+
+💻 Web Developer & Aspiring Full-Stack Engineer | Passionate about turning ideas into impactful projects
+
+🤝 Involved | Member of NSBE, Developing Men of Color, ColorStack, and IT Club
+
+🎯 Lifelong Learner | Always eager to explore new technologies and deepen my technical skills
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/besu.desta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/besufekad-desta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:20besu18@gmail.com) 
